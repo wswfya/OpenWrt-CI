@@ -1,7 +1,7 @@
-# OpenWrt云编译
+#OpenWrt云编译
 
 #### 每天凌晨2点自动编译
-#### 大雕仓库 https://github.com/coolsnowwolf/lede
+####大雕仓库 https://github.com/coolsnowolf/lede
 
 ### 把本仓库克隆到自己的仓库里
 #### 打开下面链接生成.config配置文件
